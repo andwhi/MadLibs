@@ -34,8 +34,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Romeo.cs" />
-    <Compile Include="Lucy.cs" />
+    <Compile Include="MadLibFrame.cs" />
+    <Compile Include="Story.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Romeo.txt" />
