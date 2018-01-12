@@ -1,0 +1,5 @@
+/Users/andrew/Projects/MadLibs/bin/Debug/MadLibs.exe
+/Users/andrew/Projects/MadLibs/bin/Debug/MadLibs.pdb
+/Users/andrew/Projects/MadLibs/obj/x86/Debug/MadLibs.csproj.CoreCompileInputs.cache
+/Users/andrew/Projects/MadLibs/obj/x86/Debug/MadLibs.exe
+/Users/andrew/Projects/MadLibs/obj/x86/Debug/MadLibs.pdb
