@@ -23,7 +23,7 @@ namespace MadLibs
                     string part = romeoArray[i, j];  
 
                 }
-
+                Console.WriteLine();
                 Console.WriteLine(romeoArray.GetValue(i, 0));
                 romeoArray.SetValue(Console.ReadLine(), i, 1);
 
