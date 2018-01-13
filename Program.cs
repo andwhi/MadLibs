@@ -57,15 +57,17 @@ namespace MadLibs
                         Console.WriteLine("Please enter some words: ");
                         Console.WriteLine();
                         lib.AddWords();
+                        RomeoDisplay();
                         quit = true;
                         break;
 
                     case "L":
-                        lib.thisArray = lib.romeoArray;
+                        lib.thisArray = lib.lucyArray;
                         Console.Clear();
                         Console.WriteLine("Please enter some words: ");
                         Console.WriteLine();
                         lib.AddWords();
+                        RomeoDisplay();
                         quit = true;
                         break;
 
@@ -76,8 +78,10 @@ namespace MadLibs
                         break;
 
                     default:
-                        Console.WriteLine("Please enter one of the choices.");
+                        Console.WriteLine("Please make your choice.");
                         break;
+
+                    
                 }
             }
         }
@@ -114,14 +118,6 @@ namespace MadLibs
             Console.Clear();
             Display();
         }
-
-
-
-
-
-
-       
-           
 
 
 

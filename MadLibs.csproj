@@ -39,6 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Romeo.txt" />
+    <None Include="Lucy.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

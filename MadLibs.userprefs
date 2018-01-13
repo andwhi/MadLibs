@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{4E65703F-87B6-45AE-8EED-E3BF95596036}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MadLibFrame.cs">
     <Files>
-      <File FileName="Program.cs" Line="48" Column="31" />
-      <File FileName="MadLibFrame.cs" Line="22" Column="43" />
-      <File FileName="Story.cs" Line="4" Column="23" />
+      <File FileName="Program.cs" Line="78" Column="31" />
+      <File FileName="MadLibFrame.cs" Line="23" Column="11" />
+      <File FileName="Story.cs" Line="13" Column="8" />
+      <File FileName="Lucy.txt" Line="8" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
